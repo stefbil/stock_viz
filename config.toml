@@ -1,4 +1,4 @@
-CONFIG_TOML = """[theme]
+CONFIG_TOML = [theme]
 primaryColor="#FF4B4B"
 backgroundColor="#0E1117"
 secondaryBackgroundColor="#262730"
@@ -12,4 +12,3 @@ gatherUsageStats=false
 maxUploadSize=10
 enableXsrfProtection=true
 enableCORS=false
-"""
