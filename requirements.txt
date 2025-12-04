@@ -1,0 +1,8 @@
+alpaca-py
+pandas
+python-dotenv
+websocket-client
+numpy
+matplotlib
+streamlit
+plotly
